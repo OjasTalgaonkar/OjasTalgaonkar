@@ -1,3 +1,5 @@
+<img width="355" alt="github" src="https://github.com/OjasTalgaonkar/OjasTalgaonkar/assets/98263229/c21c29f6-d3fa-47b2-a197-1dbcae94dca8">
+
 Hi, My name is Ojas Talgaonkar, I'm from the US but ethnically Indian. My goal with Coding is to create projects that I think are cool or fun. 
 
 I am proficient in Java, Python, JavaScript and C. 
@@ -11,7 +13,7 @@ My goals for 2024 are to
 
 
 Aside from Programming, i have interest in art and music.
-- I have been practicing Traditional sketch art and digital art for years now
+- I have been practicing Traditional sketch art and digital art for years &#x1F58C;
 - I just started learning the bass guitar &#x1F3B8;
 - I prefer animation over live action media
 
