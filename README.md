@@ -1,6 +1,6 @@
 <img width="100%" alt="github" src="https://github.com/OjasTalgaonkar/OjasTalgaonkar/assets/98263229/c21c29f6-d3fa-47b2-a197-1dbcae94dca8">
 
-Hi &#127754; , My name is Ojas Talgaonkar, I'm from the US but ethnically Indian. My goal with Coding is to create projects that I think are cool or fun. 
+Hi &#128075; &#x1F44B; , My name is Ojas Talgaonkar, I'm from the US but ethnically Indian. My goal with Coding is to create projects that I think are cool or fun. 
 
 I am proficient in Java, Python, JavaScript and C. 
 I am currently working on Web Development.
