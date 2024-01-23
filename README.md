@@ -1,4 +1,4 @@
-<img width="355" alt="github" src="https://github.com/OjasTalgaonkar/OjasTalgaonkar/assets/98263229/c21c29f6-d3fa-47b2-a197-1dbcae94dca8">
+<img width="100%" alt="github" src="https://github.com/OjasTalgaonkar/OjasTalgaonkar/assets/98263229/c21c29f6-d3fa-47b2-a197-1dbcae94dca8">
 
 Hi, My name is Ojas Talgaonkar, I'm from the US but ethnically Indian. My goal with Coding is to create projects that I think are cool or fun. 
 
