@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, My name is Ojas Talgaonkar, I'm from the US but ethnically Indian. My goal with Coding is to create projects that I think are cool or fun.<br><br><br>
-# My goals for 2024 are to<br>
-Learn a Javascript Frontend Framework (Preferably React or Vue)<br>Get familiar with Database programs like Mongo and SQL<br>Start creating Machine Learning Projects<br>Learn GO lang<br><br><br>Aside from Programming, i have interest in art and music.<br><br>I have been practicing Traditional sketch art and digital art for years 🖌<br>I just started learning the bass guitar 🎸<br>I prefer animation over live action media
+
 
 
 ## 🌐 Socials:
