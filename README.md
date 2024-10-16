@@ -1,5 +1,5 @@
 #  About Me:
-Hi, My name is Ojas Talgaonkar, my goal in life is to invent cool software, so i can name it something cool<br><br><br>
+My name is Ojas Talgaonkar, and my goal in life is to invent cool software, so i can name it something cool<br><br><br>
 
 
 
