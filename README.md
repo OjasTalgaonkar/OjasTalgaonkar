@@ -1,3 +1,8 @@
+
+
+<div align="center">
+  <img src="eyes.png" alt="Eyes" />
+</div>
 #  About Me:
 My name is Ojas Talgaonkar, and my goal in life is to invent cool software, so i can name it something cool<br><br><br>
 
