@@ -1,7 +1,9 @@
+#  About Me:
+
 <div align="center">
   <img src="eyes.png" alt="Eyes" />
-</div>
-#  About Me:
+</div> <br>
+
 My name is Ojas Talgaonkar, and my goal in life is to invent cool software, so i can name it something cool<br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=OjasTalgaonkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
