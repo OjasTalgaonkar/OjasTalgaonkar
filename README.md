@@ -1,4 +1,4 @@
-#  About Me:
+# About Me:
 
 <div align="center">
   <img src="eyes.png" alt="Eyes" />
@@ -17,5 +17,3 @@ My name is Ojas Talgaonkar, and my goal in life is to invent cool software, so i
 <div align="center">
   <img src="image.png" alt="bubble" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
