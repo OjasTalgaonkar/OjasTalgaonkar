@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Eyes" />
 </div> <br>
 
-My name is Ojas Talgaonkar, and my goal in life is to invent cool software, so i can name it something cool<br><br><br>
+My goal in life is to invent cool software, so I can name it something cool<br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=OjasTalgaonkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OjasTalgaonkar&theme=dark&hide_border=false)<br/>
