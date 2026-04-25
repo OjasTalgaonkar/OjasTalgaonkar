@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="board.png" alt="Eyes" />
+  <img src="banner.png" alt="Eyes" />
 </div> <br>
 
 My goal in life is to invent cool software, so that I can name it something cool<br><br><br>
